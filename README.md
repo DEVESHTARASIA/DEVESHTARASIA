@@ -6,15 +6,15 @@ class ReadMe:
         self.name = 'Devesh Tarasia'
         self.education = \
 		{
-            	'Undergraduate': ['Bachelors of Technology (EEE)', 'Shiv Nadar University University']
+            	'Undergraduate': ['Bachelors of Technology (EEE)', 'Shiv Nadar University University'],
 		'Graduate': ['Master of Science (Computer Vision and Machine Learning)', 'Northeastern University']
 		}
 	self.techStack = \
 		{
-		'Languages': ['Python', 'R', 'Matlab', 'C++', 'Bash', 'Kotlin']
-		'Frameworks': ['OpenCV', 'Keras', 'PyTorch', 'Flask', 'Scikit-learn', 'Matplotlib', 'Pandas', 'PySpark', 'Hadoop']
-		'Tools': ['Git', 'Docker', 'MySQL']
-		'Software Platforms': ['Linux', 'AWS Sagemaker', 'R Studio', 'Jupyter Notebook', 'Android']
+		'Languages': ['Python', 'R', 'Matlab', 'C++', 'Bash', 'Kotlin'],
+		'Frameworks': ['OpenCV', 'Keras', 'PyTorch', 'Flask', 'Scikit-learn', 'Matplotlib', 'Pandas', 'PySpark', 'Hadoop'],
+		'Tools': ['Git', 'Docker', 'MySQL'],
+		'Software Platforms': ['Linux', 'AWS Sagemaker', 'R Studio', 'Jupyter Notebook', 'Android'],
 		'Knowledge Areas': ['Supervised Learning', 'Unsupervised Learning', 'Reinforcement Learning', 'Computer Vision', 'Image Processing', 'Deep Learning']
 		}
 	self.other_interests = \
