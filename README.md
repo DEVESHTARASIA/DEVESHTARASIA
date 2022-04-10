@@ -5,29 +5,24 @@ class ReadMe:
         self.username = username
         self.name = 'Devesh Tarasia'
         self.education = \
-	{
-            'programming': 'Self-Taught',
-            'Undergraduate': ['Bachelor's of Technology (EEE)', 'Shiv Nadar University University']
-	}
+		{
+            'Undergraduate': ['Bachelors of Technology (EEE)', 'Shiv Nadar University University']
+			'Graduate': ['Master of Science (Computer Vision and Machine Learning)', 'Northeastern University']
+		}
 	self.techStack = \
-	{
-		'OS':'Linux(Debian Based)'
-		'Languages':['Python','MySQL','Matlab','C','C++']
-		'Software':['Gazebo','Robot Operating System','PyTorch','Flask','OpenCV','Docker']
-	}
-	self.interests = \
-	[
-		'IoT',
-		'Embedded Systems',
-		'Machine Learning',
-		'Robotics',
+		{
+		'Languages': ['Python', 'R', 'Matlab', 'C++', 'Bash', 'Kotlin']
+		'Frameworks': ['OpenCV', 'Keras', 'PyTorch', 'Flask', 'Scikit-learn', 'Matplotlib', 'Pandas', 'PySpark', 'Hadoop']
+		'Tools': ['Git', 'Docker', 'MySQL']
+		'Software Platforms': ['Linux', 'AWS Sagemaker', 'R Studio', 'Jupyter Notebook', 'Android']
+		'Knowledge Areas': ['Supervised Learning', 'Unsupervised Learning', 'Reinforcement Learning', 'Computer Vision', 'Image Processing', 'Deep Learning']
+		}
+	self.other_interests = \
+		[
+		'DIY Electronics and Embedded Systems',
+		'Outdoors',
 		'Ricing my Unix Setup'
-	]
-	self.research_interests = \
-	[
-		'Computer Vision',
-		'Reinforcement Learning for Robotics',
-	]
+		]
 
 
 me = ReadMe()
@@ -36,7 +31,7 @@ me = ReadMe()
 
 <!--
 **DEVESHTARASIA/DEVESHTARASIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+0
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
