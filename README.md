@@ -6,8 +6,8 @@ class ReadMe:
         self.name = 'Devesh Tarasia'
         self.education = \
 		{
-            'Undergraduate': ['Bachelors of Technology (EEE)', 'Shiv Nadar University University']
-			'Graduate': ['Master of Science (Computer Vision and Machine Learning)', 'Northeastern University']
+            	'Undergraduate': ['Bachelors of Technology (EEE)', 'Shiv Nadar University University']
+		'Graduate': ['Master of Science (Computer Vision and Machine Learning)', 'Northeastern University']
 		}
 	self.techStack = \
 		{
